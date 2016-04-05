@@ -1,0 +1,1 @@
+Based on Matplotlib: plotting tutorial by Nicolas Rougier, Mike Muller and Gael Varoquaux
