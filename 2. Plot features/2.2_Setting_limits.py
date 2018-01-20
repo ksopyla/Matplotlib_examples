@@ -14,5 +14,5 @@ pl.plot(X, S, color="red",  linewidth=2.5, linestyle="--")
 pl.xlim(X.min() * 1.2, X.max() * 1.2)
 pl.ylim(C.min() * 1.2, C.max() * 1.2)
 
-print "2.3 Setting plot limits"
+print("2.3 Setting plot limits")
 pl.show()

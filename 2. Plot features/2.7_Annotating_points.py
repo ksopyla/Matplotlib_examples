@@ -48,5 +48,5 @@ pl.annotate(r'$cos(\frac{2\pi}{3})=-\frac{1}{2}$',
 
 pl.legend(loc='upper left')
 
-print "2.7 Annotating points"         
+print("2.7 Annotating points")
 pl.show()

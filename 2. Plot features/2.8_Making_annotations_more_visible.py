@@ -42,5 +42,5 @@ for label in ax.get_xticklabels() + ax.get_yticklabels():
     label.set_fontsize(14)
     label.set_bbox(dict(facecolor='white', edgecolor='None', alpha=0.75))
 
-print "2.8 Making annotations more visible"         
+print("2.8 Making annotations more visible")
 pl.show()

@@ -15,6 +15,6 @@ pl.plot(X, C)
 # plot sine
 pl.plot(X, S)
 
-print "1.1 Simple plotting example"
+print("1.1 Simple plotting example")
 # show finished plot
 pl.show()

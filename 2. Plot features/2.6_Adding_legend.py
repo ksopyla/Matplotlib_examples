@@ -32,5 +32,5 @@ pl.yticks([-1, 0, +1],
 
 pl.legend(loc='upper left')
           
-print "2.6 Adding legend"
+print("2.6 Adding legend")
 pl.show()

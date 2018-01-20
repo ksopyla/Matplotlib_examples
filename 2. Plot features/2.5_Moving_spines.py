@@ -27,5 +27,5 @@ pl.xticks([-np.pi, -np.pi/2, 0, np.pi/2, np.pi],
 pl.yticks([-1, -0.5, 0, 0.5, +1],
           [r'$-1$',r'$-0.5$', r'$0$',r'$0.5$', r'$+1$'])
           
-print "2.5 Moving spines"
+print("2.5 Moving spines")
 pl.show()

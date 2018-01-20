@@ -16,5 +16,5 @@ pl.plot(X, C, color="blue", linewidth=3, linestyle=":")
 # plot sine using red color, line width of 2.5 px, dashed
 pl.plot(X, S, color="red",  linewidth=2.5, linestyle="--")
 
-print "2.2 Changing line colors and widths"
+print("2.2 Changing line colors and widths")
 pl.show()
