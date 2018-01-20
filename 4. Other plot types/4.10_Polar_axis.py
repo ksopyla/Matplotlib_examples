@@ -1,6 +1,9 @@
 # 4.10 Polar axis
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
+
 
 ax = pl.axes([0.025, 0.025, 0.95, 0.95], polar=True)
 

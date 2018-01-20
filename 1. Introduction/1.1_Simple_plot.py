@@ -1,7 +1,7 @@
 # 1.1 Simple plot
 
 # import necessary libraries
-import pylab as pl
+import matplotlib.pyplot as pl
 import numpy as np
 
 # define number of samples to generate

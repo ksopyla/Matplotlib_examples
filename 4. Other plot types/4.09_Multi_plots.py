@@ -1,5 +1,10 @@
 # 4.9 Multi plots
 
+# import necessary libraries
+import matplotlib.pyplot as pl
+import numpy as np
+
+
 fig = pl.figure()
 fig.subplots_adjust(bottom=0.025, left=0.025, top = 0.975, right=0.975)
 

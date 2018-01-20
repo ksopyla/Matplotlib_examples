@@ -1,3 +1,7 @@
+# import necessary libraries
+import matplotlib.pyplot as pl
+import numpy as np
+
 pl.axes([.1, .1, .5, .5])
 pl.xticks(())
 pl.yticks(())

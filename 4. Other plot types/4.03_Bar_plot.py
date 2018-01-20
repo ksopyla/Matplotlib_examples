@@ -1,5 +1,7 @@
 # 4.3 Bar plot
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
 
 n = 12

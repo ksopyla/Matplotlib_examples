@@ -1,3 +1,7 @@
+# import necessary libraries
+import matplotlib.pyplot as pl
+import numpy as np
+
 # 3.1 Horizontal subplot
 pl.figure(figsize=(6, 4))
 pl.subplot(2, 1, 1)

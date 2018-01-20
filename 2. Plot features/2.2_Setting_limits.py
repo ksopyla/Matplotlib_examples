@@ -1,6 +1,7 @@
-
-import pylab as pl
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
+
 
 n = 256
 X = np.linspace(-np.pi, np.pi, n, endpoint=True)

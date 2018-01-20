@@ -1,5 +1,7 @@
 # 4.12 text
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
 
 eqs = []

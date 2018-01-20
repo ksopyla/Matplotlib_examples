@@ -1,15 +1,10 @@
 # Matplotlib tutorial
 
-Intruduction to matplotlib library based on plotting tutorial by Nicolas Rougier, Mike Muller and Gael Varoquaux [http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+This is a set of Matplotlib examples for self-learning. Examples are grouped in 4 modules: 
 
-Examples:
+* Introduction - plotting sine and cosine with basic figure styling: plot colors, axis
+* Plots Features - presents more detailed concepts working with plot lines, axis limits, titles, legends, annotations etc,
+* Subplots - presents how to generate many plots in one figure side by side, explain how to structure the layout and a grid
+* Other plots types - presents the other types of plots: scatter plot, bar plot, contour plot, 3d plots etc
 
-* Simple sine and cosine plot with all features: moving axis, xlimits, ylimits, legend and latex annotation etc
-* Understanding Subplots
-* Scatter plot, bar plot, contour, pie a 3D plots
-
-
-## Download: 
-
-* Get the code from github: [https://github.com/ksirg/Matplotlib_examples](https://github.com/ksirg/Matplotlib_examples)
-* Run the code at plon.io: [https://plon.io/explore/plotting-with-matplotlib/jODCN4Y4tu00xUy0k](https://plon.io/explore/plotting-with-matplotlib/jODCN4Y4tu00xUy0k)
+This introduction to matplotlib is based on tutorial by Nicolas Rougier, Mike Muller and Gael Varoquaux [http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)

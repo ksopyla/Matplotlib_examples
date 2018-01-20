@@ -1,6 +1,9 @@
 # 4.2 Scatter plot
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
+
 
 n = 1024
 X = np.random.normal(0, 1, n)

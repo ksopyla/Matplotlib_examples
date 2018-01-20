@@ -1,3 +1,7 @@
+# import necessary libraries
+import matplotlib.pyplot as pl
+import numpy as np
+
 pl.figure(figsize=(6, 4))
 pl.subplot(1, 2, 1)
 pl.xticks(())

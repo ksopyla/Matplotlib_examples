@@ -1,5 +1,7 @@
 # 4.5 Imshow colormap
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
 
 def f(x, y):

@@ -1,3 +1,6 @@
+# import necessary libraries
+import matplotlib.pyplot as pl
+import numpy as np
 import matplotlib.gridspec as gridspec
 
 pl.figure(figsize=(6, 4))

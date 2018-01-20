@@ -1,6 +1,9 @@
 # 4.7 Quiver plot
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
+
 
 n = 8
 X, Y = np.mgrid[0:n, 0:n]

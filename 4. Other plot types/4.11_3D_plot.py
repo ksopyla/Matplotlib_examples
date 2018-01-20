@@ -1,5 +1,7 @@
 # 4.11 3D plot
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
 

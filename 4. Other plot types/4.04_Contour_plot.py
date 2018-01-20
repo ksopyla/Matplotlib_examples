@@ -1,6 +1,9 @@
 # 4.4 Contour plot
 
+# import necessary libraries
+import matplotlib.pyplot as pl
 import numpy as np
+
 
 def f(x,y):
     return (1 - x / 2 + x**5 + y**3) * np.exp(-x**2 -y**2)
