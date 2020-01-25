@@ -15,7 +15,7 @@ pl.ylim(C.min() * 1.2, C.max() * 1.2)
 
 # set ticks to show more significant values
 pl.xticks([-np.pi, -np.pi/2, 0, np.pi/2, np.pi])
-pl.yticks([-1, 0, +1])
+pl.yticks(np.arange(C.min(),C.max(),0.25))
 
 print("2.3 Setting plot ticks")
 pl.show()

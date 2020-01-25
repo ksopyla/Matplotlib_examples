@@ -31,7 +31,8 @@ pl.yticks([-1, 0, +1],
 # possible locations: right, center left, upper right, lower right,	best, center
 # lower left, center right, upper left, upper center, lower center, 
 
-pl.legend(loc='upper left')
+pl.legend(loc='best')
+#pl.legend()
           
 print("2.6 Adding legend")
 pl.show()

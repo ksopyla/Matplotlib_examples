@@ -18,7 +18,7 @@ pl.xticks([-np.pi, -np.pi/2, 0, np.pi/2, np.pi],
           [r'$-\pi$', r'$-\pi/2$', r'$0$', r'$+\pi/2$', r'$+\pi$'])
 
 pl.yticks([-1, 0, +1],
-          [r'$-1$', r'$0$', r'$+1$'])
+          [r'min', r'0', r'max'])
           
 print("2.4 Setting plot tick labels")
 pl.show()
