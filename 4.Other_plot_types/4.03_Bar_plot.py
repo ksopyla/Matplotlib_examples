@@ -1,4 +1,5 @@
-# 4.3 Bar plot
+#%% 4.3 Bar plot
+
 
 # import necessary libraries
 import matplotlib.pyplot as pl
@@ -25,3 +26,5 @@ pl.ylim(-1.25, 1.25)
 pl.yticks(())
 
 pl.show()
+
+# %%
