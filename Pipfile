@@ -5,9 +5,11 @@ name = "pypi"
 
 [packages]
 matplotlib = "*"
+numpy = "*"
 
 [dev-packages]
 pylint = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"

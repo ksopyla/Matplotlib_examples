@@ -1,4 +1,5 @@
-# 1.1 Simple plot
+
+#%% 1.1 Simple plot
 
 # import necessary libraries
 import matplotlib.pyplot as pl
@@ -18,3 +19,5 @@ pl.plot(X, S)
 print("1.1 Simple plotting example")
 # show finished plot
 pl.show()
+
+# %%
